@@ -3,6 +3,7 @@
 
 #include <stdlib.h>
 
+
 // Code inspired by https://riptutorial.com/c/example/6564/typedef-enum 
 // and https://blog.ryanmartin.me/tagged-unions
 typedef enum {

@@ -34,4 +34,3 @@ bacterium_t *random_bacterium(void);
 void print_genome(bacterium_t *bac);
 
 #endif /*SIMULATION_H*/
-

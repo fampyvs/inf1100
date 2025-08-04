@@ -20,6 +20,7 @@ void load_users_from_file(char users[][MAX_NAME_LENGTH], int *num_users) {
     }
 }
 
+
 // Function to save users to file
 void save_users_to_file(char users[][MAX_NAME_LENGTH], int num_users) {
     FILE *file = fopen("users.txt", "w");

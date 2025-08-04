@@ -17,3 +17,4 @@ oppgave5:
 
 clean:
 	rm -f oppgave1 oppgave2 oppgave3 oppgave4 oppgave5
+	

@@ -10,6 +10,7 @@ char *read_file(char *source_file) {
   size_t len;
   FILE *f = fopen(source_file, "rb");
 
+  
   // find length of file
   fseek(f, 0, SEEK_END);
   len = ftell (f);

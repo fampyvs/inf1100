@@ -40,4 +40,3 @@ example `3 2 .-` will push the result `1` to the stack; not `-1`.
 ### I/O operations
 * `.print` pop a word from the stack and print it to terminal
 * `.newline` output a newline character to terminal; does not alter the stack.
-

@@ -19,6 +19,7 @@ stack_t* stack_create(void) {
 }
 
 
+
 // Add element to the top of stack
 // Code is inspired by previous assignment, made by me
 int stack_push(stack_t* stack, stack_value* value) {

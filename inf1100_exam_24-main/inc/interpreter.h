@@ -7,6 +7,7 @@
 void execute_instruction(stack_t* stack, char** program, int* pc, int program_length);
 
 
+
 // Pops two numbers from the stack and pushes their sum
 int op_add(stack_t* stack);
 

@@ -20,6 +20,7 @@ char **program;
 int main(int argc, char **argv) {
 
 
+  
 // Cheack if the user provided a file with more then two elements
   if (argc < 2) {
     printf("no program supplied\n");

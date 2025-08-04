@@ -8,6 +8,7 @@ typedef struct {
   char message[140];  // messages can be at most 140 chars
 } twete_t;
 
+
 // structure for a list node
 typedef struct node node_t;
 struct node {

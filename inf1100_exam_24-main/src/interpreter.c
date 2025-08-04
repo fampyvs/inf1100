@@ -7,6 +7,7 @@
 #include "../inc/interpreter.h"
 
 
+
 // Pops two numbers from the stack and pushes their sum
 // Made by me
 int op_add(stack_t* stack) {
